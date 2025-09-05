@@ -1,0 +1,6 @@
+quantum-quokka/
+  ├── index.html
+  ├── style.css
+  ├── script.js
+  └── assets/ https://via.placeholders.com/1200x400
+      
